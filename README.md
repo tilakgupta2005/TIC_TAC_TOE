@@ -50,6 +50,6 @@ This is a simple command-line implementation of the classic Tic Tac Toe game in 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/tilakgupta2005/TIC_TAC_TOE?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
